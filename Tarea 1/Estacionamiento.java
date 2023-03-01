@@ -2,6 +2,9 @@ import java.time.Duration;
 import java.time.LocalTime;
 
 public class Estacionamiento extends Automovil{
+
+    // Matriz de Automoviles 
+    Automovil Estacionamiento [][]= new Automovil [3][3];
     
     //Constructor por parametros
 
