@@ -68,7 +68,4 @@ public class Automovil {
             long segundos = Duration.between(horaEntrada, horaSalida).getSeconds();
             System.out.println("El tiempo total de estancia del vehículo es: " + segundos + " segundos.");
         }
-    }    
-    
-
-}
+    }
